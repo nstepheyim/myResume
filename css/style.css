@@ -3,10 +3,10 @@ body {
 	font-size: 18px;
 	line-height: 1.5;
 	margin: 30px;
-	border: 5px solid #777777;
+	border: 5px;
 	padding: 50px;
-	background: #444444;
-	color: #EEEEEE;
+	background: #FFFFFF;
+	color: #000000;
 }
 
 a {
@@ -15,29 +15,29 @@ a {
 }
 
 small {
-	color: #BBBBBB;
+	color: #000000;
 }
 
 strong {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 h1 {
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	text-align: center;
-	color: #FFFFFF;
+	text-align: left;
+	color: #000000;
 	font-style: normal;
 	margin-top: 0;
 }
 
 h2 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 h3 {
 	font-size: 18px;
-	color: #BBBBBB;
+	color: #000000;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	margin-top: 42px;
@@ -59,7 +59,7 @@ ul {
 }
 
 ul p {
-	color: #BBBBBB;
+	color: #000000;
 }
 
 hr {
@@ -78,5 +78,5 @@ img {
 
 nav {
 	color: #999999;
-	text-align: center;
+	text-align: left;
 }
