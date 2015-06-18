@@ -11,7 +11,7 @@ body {
 
 a {
 	font-weight: 400;
-	color: #00CC99;
+	color: #29C6FF;
 }
 
 small {
@@ -44,9 +44,13 @@ h3 {
 }
 
 h4 {
-	font-weight: normal;
+	font-weight: 400;
 	margin-bottom: 0;
 }
+
+/*h6 {
+	font-weight: 300;
+}*/
 
 p {
 	font-family:'Lato', sans-serif;
@@ -65,18 +69,19 @@ ul p {
 hr {
 	border: none;
 	border-top: 1px solid #999999;
-	margin: 30px 0;
+	margin: 10px 0;
 }
 
-img {
+/*img {
 	/*float: right;*/
 	margin-left: 20px;
 	margin-bottom: 20px;
 	border: 1px solid #999999;
 	padding: 5px;
-}
+} */
 
 nav {
+	font-weight: 300;
 	color: #999999;
 	text-align: left;
 }
